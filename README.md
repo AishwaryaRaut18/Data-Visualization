@@ -1,2 +1,2 @@
 # Data-Visualization
-DV practice
+Data Visualization practice using powerBI

@@ -1,0 +1,5 @@
+1. How many Movies were produced in each year
+2. Which is top 5 studios and bottom 3 studios
+3. How many films belong to Category Comedy and Action
+4. Show films having world gross more than 150 Millions
+5. Show Number of films produced by Fox,Universal,Disney

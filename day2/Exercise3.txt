@@ -1,0 +1,6 @@
+1. Open officesupplies file
+1. Show regionwise highest selling items
+2. Show top 3 sales reps
+3. Show which are bottom 3 selling items
+4. Show Which region has highest sales
+5. Show monthwise sales
